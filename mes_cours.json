@@ -1,0 +1,12 @@
+[
+    {
+        "nom": "PHP",
+        "heures": 5,
+        "niveau": "debutant"
+    },
+    {
+        "nom": "HTML",
+        "heures": 100,
+        "niveau": "maitrise"
+    }
+]
